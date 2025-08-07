@@ -1,4 +1,4 @@
-// import UseMemo from "./components/useMemo/UseMemo";
+import UseMemo from "./components/useMemo/UseMemo";
 import UseCallback from "./components/useCallback/UseCallback";
 
 function App() {
